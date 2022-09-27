@@ -10,5 +10,4 @@
 ![1](https://notethereal.site/imgWeb/post/_7.png "7")
 ![1](https://notethereal.site/imgWeb/post/_8.png "8")
 
-Отдельное спасибо - https://github.com/monosans/vk-markovify-chatbot
 
